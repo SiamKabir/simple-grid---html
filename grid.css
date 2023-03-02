@@ -1,0 +1,55 @@
+.cont{
+
+    display: grid;
+    grid-template-rows: 1fr 2fr 1fr 1fr;
+    justify-content: center;
+}
+
+.subone{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.o11{
+    height: 80px;
+    width: 600px;
+    background-color: rgb(0, 225, 255);
+}
+.o111{
+    height: 120px;
+    width: 600px;
+    background-color: rgb(153, 0, 255);
+}
+
+.subtwo{
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+.t1{
+    margin-right:600px;
+}
+.t1 p{
+    height: 200px;
+    width: 200px;
+}
+.t2 p{
+    height: 100px;
+    width: 150px;
+}
+ .ppp{
+    margin-top: 60px;
+    margin-left: 110px;
+}
+
+.subthree{
+    margin-left: 400px;
+}
+.subfour{
+    width: 1030px;
+    text-align: center;
+}
+
+
+
